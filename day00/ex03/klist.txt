@@ -1,0 +1,8 @@
+Credentials cache: API:12829758-4B00-40AF-8F9D-29805B027BD6
+        Principal: apcharpe@42.FR
+
+  Issued                Expires               Principal
+Jul 31 18:48:10 2018  Aug  7 18:48:10 2018  krbtgt/42.FR@42.FR
+Jul 31 18:48:12 2018  Aug  7 18:48:10 2018  ldap/ldap-proxy.42.fr@42.FR
+Jul 31 18:48:13 2018  Aug  7 18:48:10 2018  HTTP/student-storage-1.42.fr@42.FR
+Jul 31 19:11:56 2018  Aug  7 18:48:10 2018  host/vgs-fn1.42.fr@42.FR
